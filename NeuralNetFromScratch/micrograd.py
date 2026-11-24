@@ -1,4 +1,4 @@
-
+#following andrey karpathy's tutorial for micrograd
 
 
 import math
